@@ -1,0 +1,13 @@
+body {
+  color: red
+}
+.button {
+  background-color: white;
+    border: 1px solid gold;
+    color: black;
+    padding: 1px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
